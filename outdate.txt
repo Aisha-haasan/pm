@@ -1,0 +1,6 @@
+the name:Giselle Robinson,depaetment: Accounting
+ MonthlyGrossSalary:$5600.00, MonthlyBonus:5.00%, Taxes:30.00%
+paycheck:$4116.00
+ DistanceTraveled:450.00 miles,TravelingTime:9.00 hours
+ NumberofCoffeeCupsSold:75, Cost:$1.5per cup
+ SalesAmount=$112.5

@@ -1,0 +1,2 @@
+the student name is :aisha  hassan
+the student average =92.8
